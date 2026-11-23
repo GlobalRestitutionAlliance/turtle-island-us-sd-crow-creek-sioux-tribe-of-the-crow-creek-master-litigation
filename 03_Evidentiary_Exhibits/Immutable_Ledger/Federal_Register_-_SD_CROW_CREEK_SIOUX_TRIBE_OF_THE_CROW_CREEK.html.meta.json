@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=SD+CROW+CREEK+SIOUX+TRIBE+OF+THE+CROW+CREEK",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=SD+CROW+CREEK+SIOUX+TRIBE+OF+THE+CROW+CREEK",
+  "title": "Federal Register - SD CROW CREEK SIOUX TRIBE OF THE CROW CREEK",
+  "fetched_at": "2026-11-23T17:40:12.336334Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 286284,
+  "sha256": "20683804d7ea8e03ffb73f1cbdc875fa569f909482e0d7ee9cf4bad4c0ecb556",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
