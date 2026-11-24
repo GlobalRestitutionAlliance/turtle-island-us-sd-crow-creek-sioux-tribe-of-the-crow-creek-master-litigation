@@ -1,12 +1,12 @@
-# Remediated scaffold configuration — Us Sd Crow Creek Sioux Tribe of the Crow Creek
-status: PENDING_LEGAL_REVIEW
-campaign: US_SD_CROW_CREEK_SIOUX_TRIBE_OF_THE_CROW_CREEK
-notice: >-
-  Remediated scaffold. Unverified template content asserting fabricated claims,
-  dollar amounts, foreign judgments, or VERIFIED status was removed.
-governance:
-  verification_status: PENDING_LEGAL_REVIEW
-  legal_review_status: PENDING_LEGAL_REVIEW
-  valuation_status: TBD
-  evidence_mapping_status: AUTO_CANDIDATE_PENDING_REVIEW
-  verification_rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT
+agents:
+- id: agent-icj-judgment-and-article-94-marshal
+  name: ICJ Judgment & Article 94 Marshal
+  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
+- id: agent-crow-creek-sioux-tribe-of-the-crow-creek-canal-and-intervention-historian
+  name: Crow Creek Sioux Tribe of the Crow Creek Canal & Intervention Historian
+  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-crow-creek-sioux-tribe-of-the-crow-creek-canal-and-intervention-historian.yaml
+total_agents: 2
