@@ -1,6 +1,6 @@
 # US SD CROW CREEK SIOUX TRIBE OF THE CROW CREEK - Litigation Framework
 
-**Template:** GRA litigation framework
+**Template:** CUBA-adapted framework
 **Generated:** 2026-11-21
 **Status:** SCAFFOLD - verification required. No fabricated citations.
 
